@@ -119,7 +119,3 @@ WITH (
 	FIELDTERMINATOR = ',',
 	TABLOCK
 );
-
-
-select count(*)
-FROM bronze.crm_cust_info;
