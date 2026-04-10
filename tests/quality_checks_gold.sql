@@ -1,0 +1,1 @@
+--Aici vor fi stocate toate DQC pt gold layer
